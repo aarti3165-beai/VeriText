@@ -521,16 +521,3 @@ VeriText delivers full-stack academic integrity verification, automated submissi
 * **API Endpoints Directory:** [https://veritext-backend-oe56.onrender.com/api](https://veritext-backend-oe56.onrender.com/api)
 * **Sample Live Similarity Report:** [https://veritext-backend-oe56.onrender.com/api/assignments/VT-6D8RZ6/similarity-report](https://veritext-backend-oe56.onrender.com/api/assignments/VT-6D8RZ6/similarity-report)
 * **GitHub Repository:** [https://github.com/aarti3165-beai/VeriText](https://github.com/aarti3165-beai/VeriText)
-
----
-
-## 👥 Contributors
-
-* **Aarti Thakur** ([@aarti3165-beai](https://github.com/aarti3165-beai))
-* **Ishita Dahiya** ([@ishitadahiya53-sys](https://github.com/ishitadahiya53-sys))
-* **Krrish Makkar** ([@Krrish-1845](https://github.com/Krrish-1845))
-
----
-
-## 📄 License & Academic Integrity
-This project is developed for educational and continuous academic evaluation purposes. Built with ❤️ by Aarti Thakur, Ishita Dahiya, and Krrish Makkar.
